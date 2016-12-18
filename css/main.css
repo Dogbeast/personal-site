@@ -783,7 +783,7 @@ ul.nostyle i {
 #get-in-touch h2 {
   color: #fff;
 }
-#blog {
+/*#blog {
   padding: 100px 0;
 }
 #blog .blog-post {
@@ -881,7 +881,7 @@ ul.nostyle i {
 }
 #blog .blog-post .entry-meta > span > a:hover {
   color: #45aed6;
-}
+}*/
 #contact {
   position: relative;
   overflow: hidden;
